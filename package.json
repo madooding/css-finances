@@ -1,0 +1,24 @@
+{
+  "name": "css-finanes",
+  "version": "1.0.0",
+  "description": "ข้อมูลธนาคารของประเทศไทย และ รูปภาพแบบ SVG",
+  "author": "@madooding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madooding-abbon/css-finances.git"
+  },
+  "keywords": [
+    "THAI",
+    "BANK",
+    "LOGO"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madooding-abbon/css-finances/issues"
+  },
+  "homepage": "https://github.com/madooding-abbon/css-finances#readme"
+}
