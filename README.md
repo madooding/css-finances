@@ -1,6 +1,7 @@
 # Finances Icon
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aomdev)<br/>
-Special thanks <a href="https://github.com/omise/banks-logo">Omise</a>
+Special thanks
+- <a href="https://github.com/omise/banks-logo">Omise</a>
+- [AomDEV](https://github.com/AomDEV/css-finances)
 
 ## Usage
 Usage:
